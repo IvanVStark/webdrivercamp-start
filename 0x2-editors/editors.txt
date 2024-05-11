@@ -1,0 +1,12 @@
+0. What is the command to open a file: vi "File Name"
+1. What is the command to safe a file: :wq
+2. What is the command to cut an entire line: d
+3. What is the command to paste: p 
+4. What is the command to undo: u
+5. What is the command to quit: x
+6. What is the command to insert text before the cursor and after: P puts it before, p puts it after
+7. What is the command to delete and cut the current line: d or dd
+8. What is the command to undo what you just did: u
+9. What is the command to quit vi: q!
+10.What is the command to move the cursor to the start of the current line: ^
+11.What is the command to move the cursor to the end of the line: $
